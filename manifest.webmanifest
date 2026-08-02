@@ -1,0 +1,20 @@
+{
+  "name": "yjm爱吃🍓的工作台",
+  "short_name": "yjm工作台",
+  "description": "yjm爱吃草莓的离线工作台：任务清单、锻炼身体、追星日记、体育备课、记账、体育新闻、科研推荐",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff0f2",
+  "theme_color": "#ff4d6d",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
